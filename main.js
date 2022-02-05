@@ -8,3 +8,4 @@ console.log("HH   HH  eeeee lll lll  oooo     ww  ww    oooo  rr     lll  dddddd
 
 
 console.log("hello DFA")
+console.log("goodbye DFA")
